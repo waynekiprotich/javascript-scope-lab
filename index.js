@@ -1,7 +1,7 @@
 /*Flat Burger Menu*/
 
 //variable data
-let burger = ['humburger', 'cheeseburger'];
+let burger = ['Humburger', 'Cheeseburger'];
 let featuredDrink ='strawberry milkshake';
 
 //function and block
